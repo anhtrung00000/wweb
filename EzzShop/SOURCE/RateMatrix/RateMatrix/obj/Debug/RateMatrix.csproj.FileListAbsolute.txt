@@ -1,0 +1,51 @@
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\RateMatrix.exe.config
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\RateMatrix.exe
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\RateMatrix.pdb
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.csprojResolveAssemblyReference.cache
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Form1.resources
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Properties.Resources.resources
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.csproj.GenerateResource.Cache
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.exe
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.pdb
+c:\users\trungnq18\documents\visual studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\Mommo.Data.dll
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\EntityFramework.dll
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\EntityFramework.xml
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Kmean.resources
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\obj\Debug\RateMatrix.log.resources
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trungnq18\Documents\Visual Studio 2015\Projects\RateMatrix\RateMatrix\bin\Debug\Newtonsoft.Json.xml
+D:\RateMatrix\RateMatrix\bin\Debug\RateMatrix.exe.config
+D:\RateMatrix\RateMatrix\bin\Debug\RateMatrix.exe
+D:\RateMatrix\RateMatrix\bin\Debug\RateMatrix.pdb
+D:\RateMatrix\RateMatrix\bin\Debug\EntityFramework.dll
+D:\RateMatrix\RateMatrix\bin\Debug\EntityFramework.SqlServer.dll
+D:\RateMatrix\RateMatrix\bin\Debug\Newtonsoft.Json.dll
+D:\RateMatrix\RateMatrix\bin\Debug\EntityFramework.xml
+D:\RateMatrix\RateMatrix\bin\Debug\EntityFramework.SqlServer.xml
+D:\RateMatrix\RateMatrix\bin\Debug\Newtonsoft.Json.xml
+D:\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Form1.resources
+D:\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Kmean.resources
+D:\RateMatrix\RateMatrix\obj\Debug\RateMatrix.log.resources
+D:\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Properties.Resources.resources
+D:\RateMatrix\RateMatrix\obj\Debug\RateMatrix.csproj.GenerateResource.Cache
+D:\RateMatrix\RateMatrix\obj\Debug\RateMatrix.exe
+D:\RateMatrix\RateMatrix\obj\Debug\RateMatrix.pdb
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\RateMatrix.exe.config
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.exe
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.pdb
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.csprojResolveAssemblyReference.cache
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Kmean.resources
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.log.resources
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.Properties.Resources.resources
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.csproj.GenerateResource.Cache
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\RateMatrix.exe
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\RateMatrix.pdb
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\EntityFramework.dll
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\Newtonsoft.Json.dll
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\EntityFramework.xml
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (3)\RateMatrix\RateMatrix\bin\Debug\Newtonsoft.Json.xml
+D:\New folder (3)\RateMatrix\RateMatrix\obj\Debug\RateMatrix.MainForm.resources

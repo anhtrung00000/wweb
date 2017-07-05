@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="45d5d8c1269645b588dcbf21addd251e" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="hocaspnetModel.Category" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="hocaspnetModel.Customer" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="hocaspnetModel.OrderDetail" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="hocaspnetModel.Order" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="hocaspnetModel.Permission" Width="1.5" PointX="5.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="hocaspnetModel.Product" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="hocaspnetModel.Supplier" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="hocaspnetModel.FK_HangHoa_Loai1" ManuallyRouted="false" />
+        <AssociationConnector Association="hocaspnetModel.FK_Orders_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="hocaspnetModel.FK_OrderDetails_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="hocaspnetModel.FK_OrderDetails_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="hocaspnetModel.FK_Products_Suppliers" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="hocaspnetModel.RateMatrix" Width="1.5" PointX="0.625" PointY="6.125" />
+        <AssociationConnector Association="hocaspnetModel.FK_RateMatrix_Customers" />
+        <AssociationConnector Association="hocaspnetModel.FK_RateMatrix_Products" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MultiShop.Models.EzShopV20.Product>
+
+<div class="nn-block-margin-top30px">
+    <div class="nn-cat-title">
+
+        <a href="#">
+            <h2>Purchased Items</h2></a>
+
+    </div>
+    <div>
+        @foreach (var p in Model)
+        {
+            <div class="col-md-3 col-sm-6 col-sx-12">
+                <div class="nn-product-box">
+
+                    <a href="/chi-tiet/@p.Name.ToAscii().ToLower()_@p.Id">
+                        <img id="i@(p.Id)" class="img-responsive" alt="@p.Name" src="/Content/img/products/@p.Image"/>
+                    </a>
+                    <div class="nn-product-box-descriptions">
+                        <h3 class="nn-product-box-name">
+                            <a href="/chi-tiet/@p.Name.ToAscii().ToLower()_@p.Id" title="@p.Name">@p.Name</a>
+                        </h3>
+                        <div class="nn-product-box-price ">
+                            <span class="">@p.UnitPrice</span>
+                        </div>
+                        <div class="nn-product-box-actions">
+                            <button type="button" title="Add to Cart" class="btn btn-default add-to-cart" data-id="@p.Id">
+                                <span>Add to Cart</span>
+                            </button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<div class="clearfix"></div>
